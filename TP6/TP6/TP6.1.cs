@@ -3,9 +3,9 @@ using System.Linq;
 
 namespace TP6
 {
-    class Program
+    class Ej1
     {
-        static void Main(string[] args)
+        public void ejercicio1()
         {
             //Ejercicio 1
 
